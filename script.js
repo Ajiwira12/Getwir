@@ -58,6 +58,6 @@ document.getElementById('checkout-btn').addEventListener('click', () => {
 (function(){
     var script = document.createElement('script');
     script.src = "https://app.midtrans.com/snap/snap.js";
-    script.setAttribute('data-client-key', 'YOUR_CLIENT_KEY');
+    script.setAttribute('data-client-key', 'SB-Mid-client-G6MkvCrvVaI2fKNE');
     document.head.appendChild(script);
 })();
